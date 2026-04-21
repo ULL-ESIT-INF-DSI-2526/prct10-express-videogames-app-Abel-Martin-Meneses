@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "name": "The Legend of Zelda: Tears of the Kingdom",
+  "description": "Una épica aventura a través de la tierra y los cielos de Hyrule.",
+  "platform": "Nintendo Switch",
+  "genre": "Aventura",
+  "developer": "Nintendo",
+  "releaseYear": 2023,
+  "multiplayer": false,
+  "hours": 150,
+  "marketValue": 69.99
+}

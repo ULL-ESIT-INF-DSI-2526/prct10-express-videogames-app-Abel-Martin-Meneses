@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "Elden Ring",
+  "description": "Un juego de rol de acción de mundo abierto desarrollado por FromSoftware y publicado por Bandai Namco.",
+  "platform": "PlayStation 5",
+  "genre": "Rol",
+  "developer": "FromSoftware",
+  "releaseYear": 2002,
+  "multiplayer": false,
+  "hours": 120,
+  "marketValue": 59.99
+}
