@@ -6,7 +6,7 @@
     "dev": "tsc-watch --onSuccess \"node dist/ejercicio-3/gestor.js\"",
     "doc": "typedoc",
     "test": "vitest run tests/P11/*",
-    "coverage": "vitest run tests/P11/** --coverage --coverage.include src/P11/**"
+    "coverage": "vitest run --coverage.reporter=text --coverage.reporter=lcov"
   },
   "repository": {
     "type": "git",
