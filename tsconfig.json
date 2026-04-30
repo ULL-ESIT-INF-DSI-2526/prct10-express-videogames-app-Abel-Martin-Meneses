@@ -5,12 +5,13 @@
     "./node_modules"
   ],
   "compilerOptions": {
-    "target": "ES2022",
+    "target": "ES2024",
     "module": "node16",
     "rootDir": "./src",
     "outDir": "./dist",
     "types": ["node"],
     "strict": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "declaration": true
   }
 }
